@@ -1,0 +1,4 @@
+triggers: 1,2,3,5,6,7
+status: 1,0
+liters_range:1,200
+bars_range:3,5
